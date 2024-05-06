@@ -1,0 +1,17 @@
+.imageback1{
+	opacity:1;
+}
+.elementor-icon-box-wrapper{
+	font-style: italic;
+	background-color: gray;
+}
+.mission{
+    font-size: 1.2em;
+}
+.elementor-31 .elementor-element.elementor-element-9122870:not(.elementor-motion-effects-element-type-background), .elementor-31 .elementor-element.elementor-element-9122870 > .elementor-motion-effects-container > .elementor-motion-effects-layer{
+	    background-image: var(--e-bg-lazyload-loaded);
+    --e-bg-lazyload: url("C:\Users\Hp\Documents\workflow\moses file\test images\57d03be7207b9e112e1be69d8152899d.jpg");
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
