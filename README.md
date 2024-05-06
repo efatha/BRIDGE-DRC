@@ -1,2 +1,2 @@
 # BRIDGE-DRC
-A youth led not-for profit organization
+A youth led not-for-profit organization
